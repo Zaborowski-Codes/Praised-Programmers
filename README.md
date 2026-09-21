@@ -1,5 +1,6 @@
 # Praised-Programmers
 Every Script that will be taught / Extra for practice
+
 This is a set of projects for the MillerLab to understand how to program in python and to apply these skills within computational chemistry
 
 Monday 9/21/26 Using Python and Math imports with the context of Redox Reactions
